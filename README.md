@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mido-Hossam007
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Python
